@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Shumpei-Kikuta/ts_tutorial/issues"
   },
-  "homepage": "https://github.com/Shumpei-Kikuta/ts_tutorial#readme"
+  "homepage": "https://github.com/Shumpei-Kikuta/ts_tutorial#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
